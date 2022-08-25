@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive - Georgia Institute of Technology\\Onedrive_codeSync\\CSharp\\Build an app with ASPNET Core and Angular from scratch\\DatingApp\\API\\API.csproj": {}
+    "C:\\Yunpeng_Local_Files\\DotNet\\Udemy_ASPNET_Core_Angular_Course\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive - Georgia Institute of Technology\\Onedrive_codeSync\\CSharp\\Build an app with ASPNET Core and Angular from scratch\\DatingApp\\API\\API.csproj": {
+    "C:\\Yunpeng_Local_Files\\DotNet\\Udemy_ASPNET_Core_Angular_Course\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive - Georgia Institute of Technology\\Onedrive_codeSync\\CSharp\\Build an app with ASPNET Core and Angular from scratch\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Yunpeng_Local_Files\\DotNet\\Udemy_ASPNET_Core_Angular_Course\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\OneDrive - Georgia Institute of Technology\\Onedrive_codeSync\\CSharp\\Build an app with ASPNET Core and Angular from scratch\\DatingApp\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\ychen\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive - Georgia Institute of Technology\\Onedrive_codeSync\\CSharp\\Build an app with ASPNET Core and Angular from scratch\\DatingApp\\API\\obj\\",
+        "projectPath": "C:\\Yunpeng_Local_Files\\DotNet\\Udemy_ASPNET_Core_Angular_Course\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\yunpeng.cheng\\.nuget\\packages\\",
+        "outputPath": "C:\\Yunpeng_Local_Files\\DotNet\\Udemy_ASPNET_Core_Angular_Course\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ychen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yunpeng.cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
